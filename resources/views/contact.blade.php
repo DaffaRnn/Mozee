@@ -15,7 +15,11 @@
 
     <h1>Halaman Contact</h1>
     <br>
-    <h3>Email : daffaxzy890@gmail.com</h3>
-    <h3>Instagram : daffa_a3r</h3>
+    <ul>
+        <li>No Hp : 085821462868</li>
+        <li>Email : daffaxzy890@gmail.com</li>
+        <li>Instagram : daffa_a3r</li>
+        <li>Tweeter : daffa.a3r</li>
+    </ul>
 </body>
 </html>

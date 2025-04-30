@@ -15,13 +15,13 @@
 
     <h1>Halaman Blog</h1>
     <br>
-    <div class="artikel">
+    <article>
         <h3>Article 1</h3>
-        <article>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Neque voluptates nulla debitis ad modi quam accusamus dicta, itaque dolores! Incidunt tempore hic dolores commodi ex, pariatur facilis dolore magnam dolor?</article>
-    </div>
-    <div class="artikel">
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci doloribus voluptatibus excepturi aliquid neque dignissimos quo eos! Blanditiis voluptatibus praesentium maiores, aperiam et laborum doloremque corrupti, odio quasi ipsa eius!</p>
+    </article>
+    <article>
         <h3>Article 2</h3>
-        <article>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro commodi nihil voluptas qui itaque sunt repellat earum quo, accusantium a eveniet laborum eligendi natus. Modi dolores laudantium sunt natus ipsa!</article>
-    </div>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto, adipisci enim excepturi pariatur quibusdam alias cum! Laborum corporis veniam optio consequuntur quaerat sit quam magni! Vel delectus nisi deleniti aut!</p>
+    </article>
 </body>
 </html>
