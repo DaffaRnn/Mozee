@@ -1,23 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman | Contact</title>
-</head>
-<body>
-    <div class="link">
-        <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/blog">Blog</a>
-        <a href="/contact">Contact</a>
-    </div>
+<x-header></x-header>
+    <div class="min-h-full">
+        <x-navbar></x-navbar>
 
-    <h1>Halaman Contact</h1>
-    <br>
-    <ul>
-        <li><a href="https://instagram.com/daffa_a3r">instagram</a></li>
-        <li><a href="https://x.com/">X</a></li>
-    </ul>
-</body>
-</html>
+        <header class="bg-white shadow-sm">
+            <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+            <h1 class="text-3xl font-bold tracking-tight text-gray-900">Contact Page</h1>
+            </div>
+        </header>
+        
+        <main>
+            <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+            
+            </div>
+        </main>
+    </div>
+<x-footer></x-footer>
